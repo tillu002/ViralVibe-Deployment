@@ -3,10 +3,10 @@ import React from "react";
 export function FeaturedIn() {
   return (
     <div>
-      <section class="section-featured">
-        <div class="containers-f">
-          <h2 class="heading-featured-in">As featured in</h2>
-          <div class="logos">
+      <section className="section-featured">
+        <div className="containers-f">
+          <h2 className="heading-featured-in">As featured in</h2>
+          <div className="logos">
             <img
               src="https://e7.pngegg.com/pngimages/380/557/png-clipart-logo-techcrunch-font-graphics-peixe-urbano-angle-text-thumbnail.png"
               alt="Techcrunch logo"
