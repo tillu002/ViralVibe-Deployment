@@ -10,7 +10,6 @@ import { Testimonial } from "./components/Testimonial";
 import { FeaturedIn } from "./components/FeaturedIn";
 import { Clients } from "./components/Clients";
 import { Footer } from "./components/Footer";
-import ParticleBackground from "./components/ParticleBackground";
 
 function App() {
   return (
